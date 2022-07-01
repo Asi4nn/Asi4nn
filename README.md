@@ -1,21 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Leo Wang</h1>
+<h3 align="center">A software developer passionate in game development and dedicated to lifelong learning!</h3>
 
-I'm Leo Wang, a software developer passionate in game development and dedicated to lifelong learning!
-
-![](https://github.com/Asi4nn/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/Asi4nn/github-stats/blob/master/generated/languages.svg)
-
-<!--
-**Asi4nn/Asi4nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src=https://github.com/Asi4nn/github-stats/blob/master/generated/overview.svg />
+  <img src=https://github.com/Asi4nn/github-stats/blob/master/generated/languages.svg />
+</div>
